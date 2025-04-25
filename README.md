@@ -62,7 +62,7 @@ weighted avg       0.87      0.87      0.86       567
 ![XgboostParticoes](https://github.com/user-attachments/assets/47e8c088-bae3-40fa-ab03-b5f2790a9718)
 
 ## Estrutura do Repositório
-- [`Scripts/ClassificadorOriginalParticoes.py`](https://github.com/Carlosbera7/ExperimentoOriginalParticoes/blob/main/Script/ClassificadorOriginalParticoes.py): Script principal para executar o experimento.
-- [`Data/`](https://github.com/Carlosbera7/ExperimentoOriginalParticoes/tree/main/Data): Pasta contendo o conjunto de dados e o Embeddings GloVe pré-treinados (necessário para execução).
-- [`Execução`](https://organic-broccoli-rqj9p9696wfwwqx.github.dev/): O código pode ser executado diretamente no ambiente virtual.
+- [`Scripts/ClassificadorOriginalParticoes.py`](https://github.com/Carlosbera7/ExperimentoOriginalParticoesXgboost/blob/main/Script/ClassificadorXgboostParticoes.py): Script principal para executar o experimento.
+- [`Data/`](https://github.com/Carlosbera7/ExperimentoOriginalParticoesXgboost/tree/main/Data): Pasta contendo o conjunto de dados e o Embeddings GloVe pré-treinados (necessário para execução).
+- [`Execução`](https://fluffy-adventure-p4xvpvwx5vc7q56.github.dev/): O código pode ser executado diretamente no ambiente virtual.
 
