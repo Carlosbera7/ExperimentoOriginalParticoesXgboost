@@ -1,4 +1,4 @@
-# Experimentos de Detecção de Discurso de Ódio Utilizando Somente o XGBoost
+# Experimentos de Detecção de Discurso de Ódio Utilizando Somente o XGBoost e Partições Salvas
 
 ## Descrição Geral
 Este repositório documenta um experimento de classificação binária utilizando o classificador **XGBoost** para a detecção de discurso de ódio em textos em português. Este experimento foi baseado no experimento orginal https://github.com/Carlosbera7/ExperimentoBaseOriginal utilizando as partições já disponibilizadas em https://github.com/Carlosbera7/SalvarParticoes
